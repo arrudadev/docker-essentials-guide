@@ -1,4 +1,5 @@
 {
+  "language": "en",
   "plugins": [
     "i18nsettings"
   ],
@@ -13,6 +14,22 @@
         {
           "config": "pt",
           "text": "Português"
+        }
+      ]
+    }
+  },
+  "variables": {
+    "socialNetworks": {
+      "medias": [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/arrudadev/",
+          "icon": "linkedin"
+        },
+        {
+          "name": "Github",
+          "url": "https://github.com/arrudadev",
+          "icon": "github"
         }
       ]
     }

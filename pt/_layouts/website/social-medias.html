@@ -1,0 +1,7 @@
+{% for socialMedia in book.socialNetworks.medias %}
+{% if socialMedia.url %}
+<a class="btn pull-right" aria-label="" href="{{ socialMedia.url }}" target="_blank">
+  <i class="fa fa-{{ socialMedia.icon }}"></i>
+</a>
+{% endif %}
+{% endfor %}
