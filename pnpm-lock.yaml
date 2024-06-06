@@ -11,6 +11,9 @@ importers:
       honkit:
         specifier: ^5.1.4
         version: 5.1.4
+      honkit-plugin-i18nsettings:
+        specifier: ^1.0.0
+        version: 1.0.0
 
 packages:
 
@@ -398,6 +401,10 @@ packages:
   highlight.js@11.9.0:
     resolution: {integrity: sha512-fJ7cW7fQGCYAkgv4CPfwFHrfd/cLS4Hau96JuJ+ZTOWhjnhoeN1ub1tFmALm/+lW5z4WCAuAV9bm05AP0mS6Gw==}
     engines: {node: '>=12.0.0'}
+
+  honkit-plugin-i18nsettings@1.0.0:
+    resolution: {integrity: sha512-Zn5gaHnxXb6Jp2zB2rKzICNoEQs17rVQngmsoODe9yBH3lMee8jtpl2THCn4zz4oMfiNCq1y46GRjLbSYY3Umg==}
+    engines: {gitbook: '>=2.4.0'}
 
   honkit@5.1.4:
     resolution: {integrity: sha512-dsRbdcT4xdjTJbNN4vd0whG3uPeypQusWyCn1sI2N5xEweZBb3qLuqcwGPkzGjxeKoYzyhUFCKmpcOARKYq79w==}
@@ -1217,6 +1224,8 @@ snapshots:
       function-bind: 1.1.2
 
   highlight.js@11.9.0: {}
+
+  honkit-plugin-i18nsettings@1.0.0: {}
 
   honkit@5.1.4:
     dependencies:

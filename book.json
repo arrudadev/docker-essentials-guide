@@ -1,0 +1,20 @@
+{
+  "plugins": [
+    "i18nsettings"
+  ],
+  "pluginsConfig": {
+    "i18nsettings": {
+      "language": "en",
+      "languages": [
+        {
+          "config": "en",
+          "text": "English"
+        },
+        {
+          "config": "pt",
+          "text": "Português"
+        }
+      ]
+    }
+  }
+}

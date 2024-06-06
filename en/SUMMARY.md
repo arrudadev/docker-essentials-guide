@@ -2,8 +2,8 @@
 
 ### About
 
-* [Sobre](README.md)
+* [About](README.md)
 
 ### Chapters
 
-* [Introdução](chapters/chapter-00-en.md)
+* [Introduction](chapters/chapter-00.md)

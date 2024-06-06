@@ -1,4 +1,4 @@
 # Languages
 
 * [English](en/)
-* [Portuguese](pt/)
+* [Português](pt/)

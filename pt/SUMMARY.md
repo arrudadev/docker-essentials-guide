@@ -6,4 +6,4 @@
 
 ### Capítulos
 
-* [Introdução](chapters/chapter-00-pt.md)
+* [Introdução](chapters/chapter-00.md)

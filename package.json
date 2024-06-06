@@ -10,6 +10,7 @@
     "build:debug": "honkit build ./ --log=debug --debug"
   },
   "dependencies": {
-    "honkit": "^5.1.4"
+    "honkit": "^5.1.4",
+    "honkit-plugin-i18nsettings": "^1.0.0"
   }
 }
