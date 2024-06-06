@@ -1,0 +1,15 @@
+{
+  "name": "docker-essentials-guide",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "honkit serve",
+    "build": "honkit build",
+    "build:debug": "honkit build ./ --log=debug --debug"
+  },
+  "dependencies": {
+    "honkit": "^5.1.4"
+  }
+}
